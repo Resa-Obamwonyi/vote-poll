@@ -1,0 +1,12 @@
+li a {
+    color: green;
+    font-size: 30px;
+}
+
+li {
+    margin-top:50px;
+}
+
+body {
+    background: white url("images/background.gif") repeat;
+}
